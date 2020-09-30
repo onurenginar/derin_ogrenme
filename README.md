@@ -1,5 +1,8 @@
-# derin_ogrenme
+# deep learning
 
-derin öğrenme için kodlar ve veriseti
+models and datesets for deep learning.
 
-veri seti kaggle.com websitesinden alınmıştır.
+dateset is taken from kaggle.com
+
+### First notebook shows linear regression as perceptron using keras.
+https://github.com/onurenginar/derin_ogrenme/blob/master/linear_model_as_ann.ipynb
